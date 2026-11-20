@@ -1,0 +1,16 @@
+models/
+.vscode/
+examples/
+
+.DS_Store
+
+agentgym-verl-adapter/runs/
+agentgym-verl-adapter/data/
+agentgym-verl-adapter/logs/
+agentgym-verl-adapter/*.egg-info
+
+# 第一阶段进行全量RL的代码,现已废弃
+# data/还需要作为源数据保留
+experiments/
+experiments/data/
+experiments/results/

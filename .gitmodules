@@ -1,0 +1,7 @@
+[submodule "AgentGym"]
+	path = AgentGym
+	url = https://github.com/WooooDyy/AgentGym
+
+[submodule "AgentGym-RL	"]
+	path = AgentGym-RL
+	url = https://github.com/WooooDyy/AgentGym-RL
